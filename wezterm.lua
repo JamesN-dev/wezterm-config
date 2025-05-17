@@ -325,7 +325,7 @@ config.keys = {
         key = ']',
         mods = 'CMD|SHIFT',
         action = wezterm.action.ToggleAlwaysOnTop,
-    }
+    },
 }
 -- Keytables for specific modes
 config.key_tables = {
